@@ -1,0 +1,5 @@
+name: GlassRebuilt
+version: '${version}'
+main: me.daydream.Core
+authors: [ DayDream ]
+description: Rebuilds Glass 3 Seconds After Broken
